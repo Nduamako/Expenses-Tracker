@@ -35,7 +35,7 @@ That will be only for now, please do check other recent projects 😊
 ---
 
 ## 🚀 How to Run
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Nduamako/Expenses-Tracker.git
-   cd Expenses-Tracker
+
+   Clone the repository:
+[https://github.com/Nduamako/Expenses-Tracker.git](https://github.com/Nduamako/Expenses-Tracker.git)
+
