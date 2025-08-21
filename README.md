@@ -22,3 +22,7 @@ period = "August 2025"
 starting_balance = 500.0
 total_expenses = 335.0
 transactions = 6
+
+## 🖥️ Sample Output
+
+![](Screenshot 2025-08-21 101623.png)](https://github.com/Nduamako/Expenses-Tracker/blob/main/Personal_Expenses_Tracker)
